@@ -1,0 +1,4 @@
+.venv
+.env
+link_list.pickle
+link_list_fx.pickle
